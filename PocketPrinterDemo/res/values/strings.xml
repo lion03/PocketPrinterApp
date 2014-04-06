@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pocket Printer Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textInputHint">Enter text to print!</string>
+    <string name="printBtnText">Print!</string>
+    <string name="SignupBtnStr">Signup!</string>
+    <string name="EmailHint">Email (Required)</string>
+    <string name="NameHint">Name (Required)</string>
+    <string name="CommentsHint">Comments (Optional)</string>
+    <string name="OpenBtnTxt">Open</string>
+    <string name="CloseBtnTxt">Close</string>
+
+</resources>
